@@ -14,7 +14,7 @@ Go to this project directory and run the following command. This creates a detai
 $ protractor .\conf\conf.js
 ```
 # Issues running protractor?
-Incase if protractor command is not recognized after installing it globally. Check the system path and add if the you do not see the following path under system environment variables
+Incase if protractor command is not recognized after installing it globally. Check the system path and add if the following paths do not exist under system environment variables
 ```python
 PATH: C:\Program Files\nodejs;
 C:\Users<<user>>\AppData\Roaming\npm;
