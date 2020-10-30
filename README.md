@@ -9,7 +9,7 @@ $ npm i protractor-html-reporter-2
 ```
 
 # Usability
-Go to this repository home directory and run the following. This creates an html report of the result under target folder
+Go to this project directory and run the following command. This creates a detailed Test Results html report under project directory target folder
 ```python
 $ protractor .\conf\conf.js
 ```
