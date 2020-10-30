@@ -1,0 +1,6 @@
+debug.log
+*.html
+*.xml
+package-lock.json
+node_modules
+screenshots

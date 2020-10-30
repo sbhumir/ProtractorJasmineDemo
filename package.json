@@ -1,0 +1,24 @@
+{
+  "name": "protractorjasminedemo",
+  "version": "1.0.0",
+  "description": "Demo of Protractor Jasmine Framework",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbhumir/ProtractorJasmineDemo.git"
+  },
+  "author": "Sirisha Bhumireddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbhumir/ProtractorJasmineDemo/issues"
+  },
+  "homepage": "https://github.com/sbhumir/ProtractorJasmineDemo#readme",
+  "dependencies": {
+    "jasmine": "^3.6.2",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
