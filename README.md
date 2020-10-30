@@ -1,11 +1,11 @@
 # ProtractorJasmineDemo
 Demo of Protractor Jasmine Framework
-# Install the following npm packages
+# Install the following npm packages globally so that this project can be run from anywhere
 ```python
 $ npm install -g protractor
-$ npm install jasmine
-$ npm install protractor-jasmine2-screenshot-reporter
-$ npm i protractor-html-reporter-2
+$ npm install -g jasmine
+$ npm install -g protractor-jasmine2-screenshot-reporter
+$ npm imstall -g protractor-html-reporter-2
 ```
 
 # Usability
